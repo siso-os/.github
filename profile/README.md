@@ -3,8 +3,9 @@
 <p align="center">The open-source agent operating system we run SISO on.<br>One window to talk to your agents, see what each one is doing, and ship.</p>
 
 <p align="center">
-  <a href="https://sisolabs.space">Website</a> ·
-  <a href="https://x.com/SisoOfficial">X</a> ·
+  <a href="https://www.sisolabs.space">Website</a> ·
+  <a href="https://www.instagram.com/siso">Instagram</a> ·
+  <a href="https://uk.linkedin.com/in/shaan-sisodia-a10ba0194">LinkedIn</a> ·
   <a href="https://www.youtube.com/@SISOAGENCY">YouTube</a> ·
   <a href="mailto:hello@sisolabs.space">hello@sisolabs.space</a>
 </p>
